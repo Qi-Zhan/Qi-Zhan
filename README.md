@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m Zhan Qi, an undergraduate studying computer science at Zhejiang University. I am expected to graduate in 2023.
+- 🔭 I’m Zhan Qi, a Phd student at Zhejiang University from 2023.
 - 🌱 I’m currently learning systems and programming languages.
 - 👯 I’m looking to collaborate on [SIG-SPL](https://github.com/SIG-SPL).
 <!-- - 🤔 I’m looking for help with ... -->
