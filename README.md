@@ -6,7 +6,6 @@
 <!-- - 👯 I’m looking to collaborate on [SIG-SPL](https://github.com/SIG-SPL). -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 qizhan@zju.edu.cn
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
